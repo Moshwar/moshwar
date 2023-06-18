@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665179834107",
+    "project_id": "moshwar-24106",
+    "storage_bucket": "moshwar-24106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665179834107:android:f7e54cd516bff142f4125e",
+        "android_client_info": {
+          "package_name": "com.flutter.moshwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665179834107-g1kq122ki3glo18upjq75bcuukhkifet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhTEqmpFS0bdOvq6554krFIl8se4gxpRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665179834107-g1kq122ki3glo18upjq75bcuukhkifet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
